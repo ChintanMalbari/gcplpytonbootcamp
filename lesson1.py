@@ -8,4 +8,16 @@
 
 # HAPPY CODING!
 
-Print('What is your name and your age?')
+#Asking for age and name
+
+name= input ("Please enter your name? ")
+age= int(input ("Please enter your age? "))
+
+age_in_100_years = age + 100
+
+
+print(f"Hello, {name}! You will be {age_in_100_years} in 100 years ")
+
+
+
+#Calculator program
