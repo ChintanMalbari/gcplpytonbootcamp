@@ -18,6 +18,4 @@ age_in_100_years = age + 100
 
 print(f"Hello, {name}! You will be {age_in_100_years} in 100 years ")
 
-
-
 #Calculator program
