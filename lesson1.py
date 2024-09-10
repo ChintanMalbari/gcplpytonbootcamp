@@ -7,3 +7,5 @@
 #     We will review your code the next morning before the session that evening.
 
 # HAPPY CODING!
+
+Print('What is your name and your age?')
