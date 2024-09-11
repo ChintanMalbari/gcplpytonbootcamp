@@ -1,0 +1,15 @@
+# 2. Create a tip calculator program using functions and user input. Use a return statement in your function.
+
+#Calculator program
+
+tip_amount = input ("Please enter tip amount? ")
+
+bill_amount = input ("Please enter total bill amount? ")
+
+tip_amount = int(tip_amount)
+bill_amount = int(bill_amount)
+
+total_tip_amount = (tip_amount*bill_amount) 
+total_tip_amount = (total_tip_amount/100)
+
+print(total_tip_amount)
